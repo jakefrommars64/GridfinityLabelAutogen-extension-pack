@@ -1,0 +1,15 @@
+{
+    "name": "gridfinity-label-autogen-development-pack",
+    "displayName": "GridfinityLabelAutogen Development Pack",
+    "description": "The extensions I use on a day-to-day basis",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.92.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "bierner.emojisense"
+    ]
+}
