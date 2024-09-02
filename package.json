@@ -12,6 +12,35 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "bierner.emojisense"
+        "AykutSarac.jsoncrack-vscode",
+        "nickdemayo.vscode-json-editor",
+        "zhaouv.vscode-markdown-everywhere",
+        "jebbs.markdown-extended",
+        "darkriszty.markdown-table-prettify",
+        "christian-kohler.path-intellisense",
+        "svipas.prettier-plus",
+        "alefragnani.project-manager",
+        "richie5um2.vscode-sort-json",
+        "jgclark.vscode-todo-highlight",
+        "tomoki1207.pdf",
+        "njpwerner.autodocstring",
+        "ms-python.autopep8",
+        "aaron-bond.better-comments",
+        "ms-python.black-formatter",
+        "alefragnani.Bookmarks",
+        "adpyke.codesnap",
+        "waderyan.gitblame",
+        "donjayamanne.git-extension-pack",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "GitHub.vscode-pull-request-github",
+        "eamodio.gitlens",
+        "oderwat.indent-rainbow",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "ZainChen.json",
+        "ms-python.debugpy",
+        "ms-python.python",
+        "ms-python.vscode-pylance"
     ]
 }
