@@ -2,7 +2,7 @@
     "name": "gridfinity-label-autogen-development-pack",
     "displayName": "GridfinityLabelAutogen Development Pack",
     "description": "Recommended extensions to ease the development of Fusion 360 add-ins.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "jakefrommars64",
     "repository": "https://github.com/jakefrommars64/GridfinityLabelAutogen-extension-pack",
     "engines": {
